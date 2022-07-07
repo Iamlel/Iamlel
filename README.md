@@ -13,7 +13,6 @@
 
 - **[Gaming](https://en.m.wikipedia.org/wiki/Video_game)**
 
-#### **I like to make my own version of things**
 ----
 ### Tools I use...
 - **[Operating Systems](https://en.m.wikipedia.org/wiki/Operating_system)**
@@ -24,7 +23,6 @@
 - **File Editors**
   - **[Visual Studio Code](https://code.visualstudio.com/)**
   - **[Notepad++](https://notepad-plus-plus.org/downloads/)**
-  - **[My Notepad]()**
 
 - **[Smaller Tools](https://github.com/Iamlel/tools)**
 ----
