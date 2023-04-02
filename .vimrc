@@ -1,6 +1,8 @@
 set nocompatible
 
 call plug#begin()
+    Plug 'wadackel/vim-dogrun'
+
     Plug 'sheerun/vim-polyglot'
     Plug 'preservim/nerdtree'
     let NERDTreeWinSize = 15
@@ -38,5 +40,6 @@ resize 6
 terminal
 
 syntax on
-colorscheme slate
+color dogrun
+" colorscheme slate
 " colorscheme ron
