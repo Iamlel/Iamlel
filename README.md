@@ -1,5 +1,5 @@
 ### Hi there 👋
- - Reach me on discord: lel#0763
+ - Reach me on discord: ilylel
  - [Vimrc](https://github.com/Iamlel/Iamlel/blob/main/.vimrc)
  - [Bashrc](https://github.com/Iamlel/Iamlel/blob/main/.bashrc)
 
